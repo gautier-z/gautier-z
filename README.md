@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Gautier
 
-<img align="right" width="180" src="https://raw.githubusercontent.com/gautier-z/gautier-z/main/src/dot.png">
+<img align="right" width="200" src="https://raw.githubusercontent.com/gautier-z/gautier-z/main/src/dot.png">
 
 👨‍💻 Front End Developer  
 💚 I'm currently working on Shopify websites  
