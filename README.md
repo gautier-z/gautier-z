@@ -18,4 +18,4 @@
 
 ## <img align="center" src="https://cdn.shopify.com/static/shopify-favicon_26x.png" alt="Shopify">&nbsp; Major contribution to Shopify projects:
 
-Coming soon...
+<code><a target="_blank" href="https://www.nutrimuscle.com/"><img height="24" src="https://raw.githubusercontent.com/gautier-z/gautier-z/main/src/nutrimuscle.png" alt="Nutrimuscle" /></a></code>
