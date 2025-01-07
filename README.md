@@ -18,8 +18,8 @@
 
 ## <img align="center" src="https://cdn.shopify.com/static/shopify-favicon_26x.png" alt="Shopify">&nbsp; Major contribution to Shopify projects:
 
-<code><a target="_blank" href="https://www.nutrimuscle.com/"><img height="32" src="https://raw.githubusercontent.com/gautier-z/gautier-z/main/src/nutrimuscle.png" alt="Nutrimuscle" /></a></code>
-<code><a target="_blank" href="https://hypnia.fr/"><img height="32" src="https://raw.githubusercontent.com/gautier-z/gautier-z/main/src/hypnia.png" alt="Hypnia" /></a></code>
-<code><a target="_blank" href="https://www.poderm.com/"><img height="32" src="https://raw.githubusercontent.com/gautier-z/gautier-z/main/src/poderm.png" alt="Poderm" /></a></code>
-<code><a target="_blank" href="https://namastrip.com/"><img height="32" src="https://raw.githubusercontent.com/gautier-z/gautier-z/main/src/namastrip.png" alt="Namastrip" /></a></code>
-<code><a target="_blank" href="https://plaqchocolat.com/"><img height="32" src="https://raw.githubusercontent.com/gautier-z/gautier-z/main/src/plaq.png" alt="Plaq" /></a></code>
+<code><a target="_blank" href="https://www.nutrimuscle.com/"><img height="24" src="https://raw.githubusercontent.com/gautier-z/gautier-z/main/src/nutrimuscle.png" alt="Nutrimuscle" /></a></code>
+<code><a target="_blank" href="https://hypnia.fr/"><img height="24" src="https://raw.githubusercontent.com/gautier-z/gautier-z/main/src/hypnia.png" alt="Hypnia" /></a></code>
+<code><a target="_blank" href="https://www.poderm.com/"><img height="24" src="https://raw.githubusercontent.com/gautier-z/gautier-z/main/src/poderm.png" alt="Poderm" /></a></code>
+<code><a target="_blank" href="https://namastrip.com/"><img height="24" src="https://raw.githubusercontent.com/gautier-z/gautier-z/main/src/namastrip.png" alt="Namastrip" /></a></code>
+<code><a target="_blank" href="https://plaqchocolat.com/"><img height="24" src="https://raw.githubusercontent.com/gautier-z/gautier-z/main/src/plaq.png" alt="Plaq" /></a></code>
